@@ -22,6 +22,7 @@ Attributes
    :toctree: api/
 
    GeoSeries.is_valid
+   GeoSeries.length
    GeoSeries.is_simple
    GeoSeries.area
    GeoSeries.geom_type
